@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
   <diagram id="ZoT6Oz823V2IFI_gLMPd" name="Page-2">
-    <mxGraphModel dx="5456" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="9375" dy="4455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Dwjmp-sHAViFGsYHcvT4-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;shadow=1;strokeWidth=3;" value="" vertex="1">
-          <mxGeometry height="2195" width="1700" x="-3400" y="-1095" as="geometry" />
+          <mxGeometry height="2200" width="1700" x="-3400" y="-1100" as="geometry" />
         </mxCell>
         <mxCell id="7FiyngWnf9gQyEBXCBvo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="1540" width="1440" x="320" y="-200" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry height="30" width="60" x="1020" y="147" as="geometry" />
         </mxCell>
         <mxCell id="Dwjmp-sHAViFGsYHcvT4-8" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VirtualMachineWindows.svg;" value="" vertex="1">
-          <mxGeometry height="107" width="116.3" x="-1990" y="-125" as="geometry" />
+          <mxGeometry height="107" width="116.3" x="-3960" y="-360" as="geometry" />
         </mxCell>
         <mxCell id="Dwjmp-sHAViFGsYHcvT4-9" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux_Non_Azure.svg;" value="" vertex="1">
           <mxGeometry height="120" width="130.43" x="-1997.0700000000002" y="540" as="geometry" />
